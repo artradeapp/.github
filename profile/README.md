@@ -1,4 +1,4 @@
-### Hello 👋
+## Hello 👋
 
 <a href="https://www.artrade.app" target="blank">
   <img align="right" src="https://www.artrade.app/images/artrade-app-en.png" height="628" />
