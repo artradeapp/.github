@@ -1,7 +1,6 @@
 ## Hello 👋
 
 <a href="https://www.artrade.app" target="blank">
-  ##<img align="right" src="https://www.artrade.app/images/artrade-app-en.png" height="628" />
 </a>
 
 <a href="https://www.artrade.app" target="blank">Artrade</a> aims to
