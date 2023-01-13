@@ -3,14 +3,7 @@
 <a href="https://www.artrade.app" target="blank">
 </a>
 
-<a href="https://www.artrade.app" target="blank">Artrade</a> aims to
-democratize NFTs for a large public
-whether this means viewing, buying,
-selling, creating or keeping them.
-Artrade teams have already worked
-very hard to optimize the user interface,
-functions, innovation, and security to
-meet this objective.
+<a href="https://www.artrade.app" target="blank">Artrade</a> is an all-in-one art platform helping creators sell their work at fair prices and connect with their community. Artrade is designed for digital and traditional artists, curators, collectors and focus on content protection from crypto volatility and fostering connections within the art world.
 
 ## Who is Artrade for?
 
